@@ -18,3 +18,6 @@ Chacun est également libre de déposer des fichiers dans les répertoires du je
 Accédez aux branches depuis la barre d'outils ou en cliquant [ici](https://github.com/Eeleemos/pokemon-alchemy/branches).
 
 Vous pouvez aussi aller voir la rubrique des  [projets](https://github.com/Eeleemos/pokemon-alchemy/projects?query=is%3Aopen) pour l'organisation du développement du jeu.
+
+## Vous avez des idées de fakemons ?
+Rendez-vous dans la rubrique *issues* (n'oubliez pas d'indiquer le **tag adapté**)

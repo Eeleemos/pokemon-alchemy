@@ -16,7 +16,7 @@ Chacun est également libre de déposer des fichiers dans les répertoires du je
 >## *J'ai un problème/bug*
 Si tu pense pouvoir le régler seul, fait une *"pull request"* (c'est à dire une requête pour une modification du projet).
 Mais si tu as besoin d'aide, ou tu ne te sens pas capable de le résoudre, alors crée une *"issue"*, ça permettra d'en discuter pour savoir comment régler le problème/bug, et de savoir qui s'en chargera.
-Par la suite, le contenu/correction/patch sera apporté à la version stable du jeu.
+Par la suite, le contenu/correction/patch (ce qui s'appelle un *"commit"*, pour *"commitment"*) sera apporté à la version stable du jeu.
 
 >## *Comment faire part d'une idée ?*
 Rien de plus simple ; les issues servent également à ça.

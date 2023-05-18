@@ -22,7 +22,7 @@ Par la suite, le contenu/correction/patch (ce qui s'appelle un *"commit"*, pour 
 Rien de plus simple ; les issues servent également à ça.
 
 ## Pour accéder aux fichiers :
-Accédez aux branches depuis la barre d'outils ou en cliquant [ici](https://github.com/Eeleemos/pokemon-alchemy/branches).
+Accédez aux branches depuis la barre d'outils ou en cliquant [ici](https://github.com/Eeleemos/pokemon-alchemy/branches) pour se rendre dans des versions spécifiques du jeu.
 
 Vous pouvez aussi aller voir la rubrique des  [projets](https://github.com/Eeleemos/pokemon-alchemy/projects?query=is%3Aopen) pour l'organisation du développement du jeu.
 

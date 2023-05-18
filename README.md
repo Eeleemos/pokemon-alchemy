@@ -1,11 +1,9 @@
 # pokemon-alchemy
 **DÉPÔT DU PROJET FANGAME POKÉMON**
+### BRANCHE DE DÉVELOPPEMENT (stable-1.0)
 
-Tous les scripts, assets (sprite et tiles / tilemap), sons et autres fichiers sont trouvables ici.
+>## *C'est quoi une "branche"?*
+Vois ça comme une version du jeu; c'est là où tout les fichiers propres à cette version sont organisés (ici c'est la première version stable, *"stable-1.0"* )
 
-*(fichiers organisés en divers répertoires)*
-
-L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet de programmation.
-
-N'hésitez pas à créer une *"issue"* pour faire par d'un problème de développement ou d'une idée. Si vous trouvez une solution à une issue, faites en part aux autres en créant une *"pull request"* (comme ça c'est mieux organisé), ainsi
-Chacun est également libre de déposer des fichiers dans les répertoires du jeu
+>## *Je veux apporter un changement à cette branche*
+Alors créer une *"pull request"* en indiquant la branche *"dev-1.0"* (le changement sera par la suite apporté à la version stable *"stable-1.0"*)

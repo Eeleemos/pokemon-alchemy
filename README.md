@@ -27,4 +27,4 @@ Accédez aux branches depuis la barre d'outils ou en cliquant [ici](https://gith
 Vous pouvez aussi aller voir la rubrique des  [projets](https://github.com/Eeleemos/pokemon-alchemy/projects?query=is%3Aopen) pour l'organisation du développement du jeu.
 
 ## Vous avez des idées de fakemons ?
-Rendez-vous dans la rubrique *issues* (n'oubliez pas d'indiquer le **tag adapté**)
+Rendez-vous dans la rubrique *issues* (n'oubliez pas d'indiquer le **label adapté**)

@@ -1,8 +1,8 @@
 # pokemon-alchemy
 
 ## LIENS UTILES
-Pokémon Studio : https://github.com/PokemonWorkshop/PokemonStudio/releases (dépôt/source)
-                https://pokemonworkshop.com/fr/studio
+Pokémon Studio : [dépot/source](https://github.com/PokemonWorkshop/PokemonStudio/releases)
+                 [site officiel](https://pokemonworkshop.com/fr/studio)
 
 
 ### **DÉPÔT DU PROJET FANGAME POKÉMON**

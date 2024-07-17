@@ -1,5 +1,5 @@
 # pokemon-alchemy
-![icon](https://github.com/Eeleemos/pokemon-alchemy/blob/main/icon.png)
+![icon](https://github.com/Eeleemos/pokemon-alchemy/blob/main/logo.png)
 
 ## LIENS UTILES
 ### Pokémon Studio

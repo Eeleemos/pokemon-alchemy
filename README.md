@@ -1,6 +1,8 @@
 # Pokémon Alchemy
 ![icon](https://github.com/Eeleemos/pokemon-alchemy/blob/main/logo.png)
 
+# ATTENTION !  PROJET EN DÉVELOPPEMENT. PAS ENCORE DE PHASES DE TESTS
+
 Pokémon Alchemy est un fangame pokémon se déroulant dans un univers steampunk médiéval cyberpunk, où l'alchimie règne en maître.
 Explorez Taïlong, capturez les nouveaux pokémons qu'offre la région, rencontrez des personnages inoubliables, et surtout, déjouez les plans machiavélliques du roi régnant tyranniquement sur la région, pour l'empêcher d'aquérir la pierre philosophale, artéfact qui permettrait de ramener les morts à la vie.
 

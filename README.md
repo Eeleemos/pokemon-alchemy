@@ -24,7 +24,7 @@ L'intérêt d'un dépôt github est de grandement faciliter le travail collabora
 
 >## *Qu'est ce qu'on trouve ici ?*
 Tous les scripts, assets (sprite et tiles / tilemap), sons et autres fichiers sont trouvables ici, triés par répertoires, de manière organisée.
-Et bientôt le fichier d'installation du jeu
+Et bientôt le fichier d'installation du jeu.
 
 
 

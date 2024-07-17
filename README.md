@@ -1,22 +1,31 @@
-# pokemon-alchemy
+# Pokémon Alchemy
 ![icon](https://github.com/Eeleemos/pokemon-alchemy/blob/main/logo.png)
 
-## LIENS UTILES
+Pokémon Alchemy est un fangame pokémon se déroulant dans un univers steampunk médiéval cyberpunk, où l'alchimie règne en maître.
+Explorez Taïlong, capturez les nouveaux pokémons qu'offre la région, rencontrez des personnages inoubliables, et surtout, déjouez les plans machiavélliques du roi régnant tyranniquement sur la région, pour l'empêcher d'aquérir la pierre philosophale, artéfact qui permettrait de ramener les morts à la vie.
+
+## Logiciels utilisés
 ### Pokémon Studio
 [dépot/source](https://github.com/PokemonWorkshop/PokemonStudio/releases) et
 [site officiel](https://pokemonworkshop.com/fr/studio)
+
+### RPG Maker XP
 
 
 ### **DÉPÔT DU PROJET FANGAME POKÉMON**
 =========================================
 
 >## *Pourquoi un dépôt github ?*
-L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet de programmation.
+L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet de programmation. Il est pratique pour nous, développeurs du jeu. Mais aussi pour vous, puisque c'est ici que vous pourrez télécharger le jeu quand il sera fini.
 
 
 >## *Qu'est ce qu'on trouve ici ?*
 Tous les scripts, assets (sprite et tiles / tilemap), sons et autres fichiers sont trouvables ici, triés par répertoires, de manière organisée.
+Et bientôt le fichier d'installation du jeu
 
+
+
+# *Ici, notes pour nous les développeurs*
 >## *Comment l'utiliser ?*
 On trouve plusieurs outils spécifiques à différentes tâches; *On peut par exemple utiliser des *"issues"* ou des "*pull request"* pour régler des erreurs de développement ou pour donner des idées. On peut aussi accéder à la section *"project"* pour avoir une idée claire du déroulement des tâches du développement du jeu.
 Chacun est également libre de déposer des fichiers dans les répertoires du jeu (mettez les dans la branche de la version dev "dev-1.0").

@@ -13,6 +13,7 @@
 [site officiel](https://pokemonworkshop.com/fr/studio)
 
 ### RPG Maker XP
+[disponible sur steam](https://store.steampowered.com/app/235900/RPG_Maker_XP/)
 
 
 ### **DÉPÔT DU PROJET FANGAME POKÉMON**

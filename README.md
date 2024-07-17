@@ -1,4 +1,5 @@
 # pokemon-alchemy
+![icon](https://github.com/Eeleemos/pokemon-alchemy/blob/main/icon.png)
 
 ## LIENS UTILES
 ### Pokémon Studio

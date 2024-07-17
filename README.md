@@ -27,7 +27,7 @@ Et bientôt le fichier d'installation du jeu.
 
 
 
-# *Ci dessous, notes pour nous les développeurs. Juste des notes*
+# *Ci dessous, notes pour nous les développeurs.*
 >## *Comment l'utiliser ?*
 On trouve plusieurs outils spécifiques à différentes tâches; *On peut par exemple utiliser des *"issues"* ou des "*pull request"* pour régler des erreurs de développement ou pour donner des idées. On peut aussi accéder à la section *"project"* pour avoir une idée claire du déroulement des tâches du développement du jeu.
 Chacun est également libre de déposer des fichiers dans les répertoires du jeu (mettez les dans la branche de la version dev "dev-1.0").

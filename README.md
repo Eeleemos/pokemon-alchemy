@@ -9,15 +9,13 @@
 
 ## Logiciels utilisés
 ### Pokémon Studio
-[dépot/source](https://github.com/PokemonWorkshop/PokemonStudio/releases) et
-[site officiel](https://pokemonworkshop.com/fr/studio)
+[Dépot/Source](https://github.com/PokemonWorkshop/PokemonStudio/releases) et
+[Site officiel](https://pokemonworkshop.com/fr/studio)
 
 ### RPG Maker XP
-[disponible sur steam](https://store.steampowered.com/app/235900/RPG_Maker_XP/)
+[Disponible sur Steam](https://store.steampowered.com/app/235900/RPG_Maker_XP/)
+_____________________
 
-
-### **DÉPÔT DU PROJET FANGAME POKÉMON**
-=========================================
 
 >## *Pourquoi un dépôt github ?*
 L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet de programmation. Il est pratique pour nous, développeurs du jeu. Mais aussi pour vous, puisque c'est ici que vous pourrez télécharger le jeu quand il sera fini.
@@ -29,7 +27,7 @@ Et bientôt le fichier d'installation du jeu.
 
 
 
-# *Ici, notes pour nous les développeurs*
+# *Ci dessous, notes pour nous les développeurs. Juste des notes*
 >## *Comment l'utiliser ?*
 On trouve plusieurs outils spécifiques à différentes tâches; *On peut par exemple utiliser des *"issues"* ou des "*pull request"* pour régler des erreurs de développement ou pour donner des idées. On peut aussi accéder à la section *"project"* pour avoir une idée claire du déroulement des tâches du développement du jeu.
 Chacun est également libre de déposer des fichiers dans les répertoires du jeu (mettez les dans la branche de la version dev "dev-1.0").

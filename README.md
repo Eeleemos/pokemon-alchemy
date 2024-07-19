@@ -21,7 +21,7 @@ _____________________
 
 
 >## *Pourquoi un dépôt github ?*
-L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet de programmation. Il est pratique pour nous, développeurs du jeu. Mais aussi pour vous, puisque c'est ici que vous pourrez télécharger le jeu quand il sera fini.
+L'intérêt d'un dépôt github est de grandement faciliter le travail collaboratif dans un projet d'empleur comme celui ci. Il est pratique pour nous, développeurs du jeu. Mais aussi pour vous, puisque c'est ici que vous pourrez télécharger le jeu quand il sera fini.
 
 
 >## *Qu'est ce qu'on trouve ici ?*

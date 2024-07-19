@@ -13,7 +13,7 @@
 [Site officiel](https://pokemonworkshop.com/fr/studio)
 
 ### Tiled
-[Site](https://www.mapeditor.org/)
+[Site officiel](https://www.mapeditor.org/)
 
 ### RPG Maker XP
 [Disponible sur Steam](https://store.steampowered.com/app/235900/RPG_Maker_XP/)

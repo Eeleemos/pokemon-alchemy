@@ -13,10 +13,18 @@
 [Site officiel](https://pokemonworkshop.com/fr/studio)
 
 ### Tiled
+Éditeur de cartes
 [Site officiel](https://www.mapeditor.org/)
 
 ### RPG Maker XP
+Moteur de jeu
 [Disponible sur Steam](https://store.steampowered.com/app/235900/RPG_Maker_XP/)
+
+### Libresprite
+Programme de pixel art, version open source du logiciel populaire 'Aseprite'
+
+### Piskel
+Programme de pixel art
 _____________________
 
 
